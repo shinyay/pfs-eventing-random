@@ -1,0 +1,13 @@
+{
+  "name": "random",
+  "version": "0.0.1",
+  "description": "repeatedly posts random numbers to another function or channel",
+  "main": "random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
